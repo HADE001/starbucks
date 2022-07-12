@@ -97,6 +97,11 @@ header ul li a
     padding-right: 50px;
     margin-top: 50px;
 }
+
+#big_img{
+    max-width: 400px;
+}
+
 .content .img Box img
 {
     max-width: 340px;
